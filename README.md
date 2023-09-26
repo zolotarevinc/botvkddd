@@ -1,9 +1,7 @@
-<h1 align="center">PumaBot Lite</h1>
+<h1 align="center">PumaBot</h1>
     <blockquote>Игровой чат-бот для ВКонтакте на Python. Напишите "помощь" что бы узнать мои возможности.</blockquote>
 </p>
 <hr>
-
-Инструкция: vk.com/@wezzyofficial-ustanovka-i-nastroika-bot-puma-lite
 
 ## Установка
 1) Установим зависимости:
